@@ -1,0 +1,7 @@
+{
+  "name": "vue-router-view-setup-issue",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue"
+}

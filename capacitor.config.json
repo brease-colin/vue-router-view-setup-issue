@@ -1,0 +1,6 @@
+{
+	"appId": "io.ionic.starter",
+	"appName": "vue-router-view-setup-issue",
+	"webDir": "dist",
+	"bundledWebRuntime": false
+}
